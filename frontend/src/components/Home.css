@@ -1,0 +1,86 @@
+.homeContainer{
+    margin-top: 2%;
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 70%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.homeone{
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.hometwo{
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.homeHeading{
+    color: white;
+    font-weight: 800;
+    font-size: 35px;
+    margin-bottom: 4%;
+}
+
+.homeForm{
+    margin-top:4%;
+    width: 80%;
+    display: flex;
+    margin-bottom: 4%;
+}
+
+.homeInput{
+    display: table-cell;
+    width: 77%;
+    height: 55px;
+    padding: 5px;
+    padding-left:20px;
+    font-size: 20px;
+    color: #000;
+    background: #fff;
+    border: none;
+    outline: none;
+    font-weight: 600;
+    border-radius: 10px 0px 0px 10px;
+    align-items: center;
+}
+
+.homeBtn{
+    width:23%;
+    height: 65px;
+    padding: 5px;
+    font-weight: 600;
+    border-radius: 0px 10px 10px 0px;
+    border: none;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(0, 132, 255);
+}
+
+.homeBtn:hover{
+    cursor: pointer;
+    background-color: rgb(0, 84, 163);
+}
+
+.homePassage{
+    color: white;
+    font-size: 22px;
+    text-align: center;
+}
+
+.passageHead{
+    margin:5% 0;
+    color: white;
+    font-size: 33px;
+    text-align: center;
+}
